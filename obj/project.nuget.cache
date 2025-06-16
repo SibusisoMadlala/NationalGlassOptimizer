@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ZvhSWg2R2O8w91iIilndXnIVCIN/lReuz2IaXg5I+zESeFzol+7aLJp3P3gLRFzerxM0ZQkUHrfo06IEip0UQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Optimizer\\Optimizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sibusisomadlala\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.6\\microsoft.win32.systemevents.9.0.6.nupkg.sha512",
+    "C:\\Users\\sibusisomadlala\\.nuget\\packages\\system.drawing.common\\9.0.6\\system.drawing.common.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

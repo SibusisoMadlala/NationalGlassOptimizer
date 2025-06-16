@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Optimizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A16A6FCF-BC7F-4613-84E2-FA1FE56C2F30}|Optimizer.csproj|c:\\users\\sibusisomadlala\\onedrive - nagarro\\documents\\optimizer\\visualization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16A6FCF-BC7F-4613-84E2-FA1FE56C2F30}|Optimizer.csproj|solutionrelative:visualization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16A6FCF-BC7F-4613-84E2-FA1FE56C2F30}|Optimizer.csproj|c:\\users\\sibusisomadlala\\onedrive - nagarro\\documents\\optimizer\\stocksheetloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16A6FCF-BC7F-4613-84E2-FA1FE56C2F30}|Optimizer.csproj|solutionrelative:stocksheetloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16A6FCF-BC7F-4613-84E2-FA1FE56C2F30}|Optimizer.csproj|c:\\users\\sibusisomadlala\\onedrive - nagarro\\documents\\optimizer\\stocksheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16A6FCF-BC7F-4613-84E2-FA1FE56C2F30}|Optimizer.csproj|solutionrelative:stocksheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16A6FCF-BC7F-4613-84E2-FA1FE56C2F30}|Optimizer.csproj|c:\\users\\sibusisomadlala\\onedrive - nagarro\\documents\\optimizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16A6FCF-BC7F-4613-84E2-FA1FE56C2F30}|Optimizer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16A6FCF-BC7F-4613-84E2-FA1FE56C2F30}|Optimizer.csproj|c:\\users\\sibusisomadlala\\onedrive - nagarro\\documents\\optimizer\\layoutoptimizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16A6FCF-BC7F-4613-84E2-FA1FE56C2F30}|Optimizer.csproj|solutionrelative:layoutoptimizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16A6FCF-BC7F-4613-84E2-FA1FE56C2F30}|Optimizer.csproj|c:\\users\\sibusisomadlala\\onedrive - nagarro\\documents\\optimizer\\glasspanelloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16A6FCF-BC7F-4613-84E2-FA1FE56C2F30}|Optimizer.csproj|solutionrelative:glasspanelloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16A6FCF-BC7F-4613-84E2-FA1FE56C2F30}|Optimizer.csproj|c:\\users\\sibusisomadlala\\onedrive - nagarro\\documents\\optimizer\\glasspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16A6FCF-BC7F-4613-84E2-FA1FE56C2F30}|Optimizer.csproj|solutionrelative:glasspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16A6FCF-BC7F-4613-84E2-FA1FE56C2F30}|Optimizer.csproj|c:\\users\\sibusisomadlala\\onedrive - nagarro\\documents\\optimizer\\cuttingheadoptimizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16A6FCF-BC7F-4613-84E2-FA1FE56C2F30}|Optimizer.csproj|solutionrelative:cuttingheadoptimizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Optimizer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Optimizer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:55:41.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlassPanelLoader.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Optimizer\\GlassPanelLoader.cs",
+              "RelativeDocumentMoniker": "GlassPanelLoader.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Optimizer\\GlassPanelLoader.cs",
+              "RelativeToolTip": "GlassPanelLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:59:47.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LayoutOptimizer.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Optimizer\\LayoutOptimizer.cs",
+              "RelativeDocumentMoniker": "LayoutOptimizer.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Optimizer\\LayoutOptimizer.cs",
+              "RelativeToolTip": "LayoutOptimizer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:00:41.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockSheet.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Optimizer\\StockSheet.cs",
+              "RelativeDocumentMoniker": "StockSheet.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Optimizer\\StockSheet.cs",
+              "RelativeToolTip": "StockSheet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:58:26.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockSheetLoader.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Optimizer\\StockSheetLoader.cs",
+              "RelativeDocumentMoniker": "StockSheetLoader.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Optimizer\\StockSheetLoader.cs",
+              "RelativeToolTip": "StockSheetLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:59:13.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Visualization.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Optimizer\\Visualization.cs",
+              "RelativeDocumentMoniker": "Visualization.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Optimizer\\Visualization.cs",
+              "RelativeToolTip": "Visualization.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwDEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:02:45.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlassPanel.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Optimizer\\GlassPanel.cs",
+              "RelativeDocumentMoniker": "GlassPanel.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Optimizer\\GlassPanel.cs",
+              "RelativeToolTip": "GlassPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:57:27.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CuttingHeadOptimizer.cs",
+              "DocumentMoniker": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Optimizer\\CuttingHeadOptimizer.cs",
+              "RelativeDocumentMoniker": "CuttingHeadOptimizer.cs",
+              "ToolTip": "C:\\Users\\sibusisomadlala\\OneDrive - Nagarro\\Documents\\Optimizer\\CuttingHeadOptimizer.cs",
+              "RelativeToolTip": "CuttingHeadOptimizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T12:21:32.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
